@@ -13,16 +13,12 @@ First we need to decide the number of VLANs needed and how they will connect to 
 - Servers
 - Guest devices
 
-## Network Topology
-
-
-<p align="center">
-  <img src="https://github.com/Chedars1/blog/blob/main/images/home_network_no_switch.drawio.png" alt="drawing" width="400" />
-</p>
-
-## Hardware
-
+## Network Hardware
 - VLAN capable Router
 - Managed switches
 - Access points
 
+## Network Topology
+<p align="center">
+  <img src="https://github.com/Chedars1/blog/blob/main/images/home_network_no_switch.drawio.png" alt="drawing" width="400" />
+</p>
